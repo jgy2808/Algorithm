@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T13:45:21.153Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="CG74eQyFlc9F65LZ9rj0" version="15.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-01T13:59:53.373Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="_ThP7i7XnaEiRUZWjID2" version="15.3.1" type="github">
   <diagram id="KtU2aRdOKYF484g9giqT" name="Page-1">
-    <mxGraphModel dx="1202" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2483" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -348,12 +348,12 @@
         </mxCell>
         <mxCell id="4ka4wmr6u2VwpcD3s4QF-108" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="743" y="460" as="sourcePoint" />
+            <mxPoint x="743" y="470" as="sourcePoint" />
             <mxPoint x="652.5" y="490.15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ka4wmr6u2VwpcD3s4QF-109" value="&lt;font style=&quot;font-size: 18px&quot;&gt;다진 대파&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="650" y="428.2899999999999" width="90" height="20" as="geometry" />
+        <mxCell id="4ka4wmr6u2VwpcD3s4QF-109" value="&lt;font style=&quot;font-size: 18px&quot;&gt;채썬 대파&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="645" y="444.9999999999999" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4ka4wmr6u2VwpcD3s4QF-110" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -388,17 +388,17 @@
         <mxCell id="4ka4wmr6u2VwpcD3s4QF-118" value="&lt;font style=&quot;font-size: 18px&quot;&gt;물&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="37.5" y="230" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4ka4wmr6u2VwpcD3s4QF-119" value="&lt;span style=&quot;font-size: 18px&quot;&gt;4-1. 대파 &lt;br&gt;다지기&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4ka4wmr6u2VwpcD3s4QF-119" value="&lt;span style=&quot;font-size: 18px&quot;&gt;4-1. 대파 &lt;br&gt;채썰기&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="755" y="419.99999999999994" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4ka4wmr6u2VwpcD3s4QF-120" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="960" y="590" as="sourcePoint" />
+            <mxPoint x="970" y="570" as="sourcePoint" />
             <mxPoint x="875" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4ka4wmr6u2VwpcD3s4QF-121" value="&lt;font style=&quot;font-size: 18px&quot;&gt;씻은 대파&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="830" y="540" width="90" height="20" as="geometry" />
+          <mxGeometry x="850" y="540" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4ka4wmr6u2VwpcD3s4QF-124" value="&lt;span style=&quot;font-size: 18px&quot;&gt;4-2. 숙주 씻기&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="590" width="125" height="80" as="geometry" />
