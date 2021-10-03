@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T14:14:40.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="pkBkQVfW_VAf16wmfGSI" version="15.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-03T03:52:24.016Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="dqY3oHm-3zRbSFMxQL65" version="15.4.0" type="github">
   <diagram id="BkRIvSXjx7AZviJyloqO" name="Page-1">
-    <mxGraphModel dx="2130" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2130" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qIdZlYRgleu5UFHHDGIx-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;1. 채소 씻기&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qIdZlYRgleu5UFHHDGIx-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;1-1. 채소 씻기&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="70" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qIdZlYRgleu5UFHHDGIx-4" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
@@ -34,7 +34,7 @@
         <mxCell id="qIdZlYRgleu5UFHHDGIx-10" value="&lt;font style=&quot;font-size: 18px&quot;&gt;씻겨진&lt;br&gt;채소&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="80" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qIdZlYRgleu5UFHHDGIx-13" value="&lt;font style=&quot;font-size: 18px&quot;&gt;2. 껍질 벗기기&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qIdZlYRgleu5UFHHDGIx-13" value="&lt;font style=&quot;font-size: 18px&quot;&gt;1-2. 껍질 벗기기&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="70" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qIdZlYRgleu5UFHHDGIx-14" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
@@ -43,7 +43,7 @@
             <mxPoint x="680" y="120.82999999999993" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qIdZlYRgleu5UFHHDGIx-15" value="&lt;font style=&quot;font-size: 18px&quot;&gt;3. 다지기&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qIdZlYRgleu5UFHHDGIx-15" value="&lt;font style=&quot;font-size: 18px&quot;&gt;1-3. 다지기&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="70" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qIdZlYRgleu5UFHHDGIx-16" value="&lt;font style=&quot;font-size: 18px&quot;&gt;껍질 벗겨진&lt;br&gt;채소&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -55,32 +55,17 @@
             <mxPoint x="720" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qIdZlYRgleu5UFHHDGIx-18" value="&lt;font style=&quot;font-size: 18px&quot;&gt;4. 팬에&lt;br&gt;가열하기&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="900" y="260" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="qIdZlYRgleu5UFHHDGIx-19" value="&lt;font style=&quot;font-size: 18px&quot;&gt;다져진&lt;br&gt;채소&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="680" y="190" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qIdZlYRgleu5UFHHDGIx-22" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1135" y="305" as="sourcePoint" />
-            <mxPoint x="1035" y="305" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qIdZlYRgleu5UFHHDGIx-23" value="&lt;font style=&quot;font-size: 18px&quot;&gt;식용유&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1035" y="275" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="qIdZlYRgleu5UFHHDGIx-26" value="&lt;font style=&quot;font-size: 18px&quot;&gt;7. 간&lt;br&gt;맞추기&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="270" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="qIdZlYRgleu5UFHHDGIx-27" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="370" as="sourcePoint" />
-            <mxPoint x="220" y="340" as="targetPoint" />
+            <mxPoint x="550" y="205" as="sourcePoint" />
+            <mxPoint x="460" y="265" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qIdZlYRgleu5UFHHDGIx-28" value="&lt;font style=&quot;font-size: 18px&quot;&gt;소금&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="240" y="360" width="40" height="20" as="geometry" />
+          <mxGeometry x="460" y="210" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qIdZlYRgleu5UFHHDGIx-33" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -88,10 +73,10 @@
             <mxPoint x="790" y="305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qIdZlYRgleu5UFHHDGIx-34" value="&lt;font style=&quot;font-size: 18px&quot;&gt;가열된&lt;br&gt;식용유&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="795" y="265" width="90" height="20" as="geometry" />
+        <mxCell id="qIdZlYRgleu5UFHHDGIx-34" value="&lt;font style=&quot;font-size: 18px&quot;&gt;식용유&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="795" y="275" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qIdZlYRgleu5UFHHDGIx-35" value="&lt;font style=&quot;font-size: 18px&quot;&gt;5. 감자, 당근&lt;br&gt;볶기&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qIdZlYRgleu5UFHHDGIx-35" value="&lt;font style=&quot;font-size: 18px&quot;&gt;2-1. 감자, 당근&lt;br&gt;볶기&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="255" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qIdZlYRgleu5UFHHDGIx-39" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
@@ -103,7 +88,7 @@
         <mxCell id="qIdZlYRgleu5UFHHDGIx-40" value="&lt;font style=&quot;font-size: 18px&quot;&gt;볶아진&lt;br&gt;감자, 당근&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="500" y="252.5" width="110" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="qIdZlYRgleu5UFHHDGIx-41" value="&lt;font style=&quot;font-size: 18px&quot;&gt;6. 모든 채소&lt;br&gt;볶기&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qIdZlYRgleu5UFHHDGIx-41" value="&lt;font style=&quot;font-size: 18px&quot;&gt;2-2. 모든 채소&lt;br&gt;볶기&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="260" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qIdZlYRgleu5UFHHDGIx-42" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
@@ -115,28 +100,19 @@
         <mxCell id="qIdZlYRgleu5UFHHDGIx-43" value="&lt;font style=&quot;font-size: 18px&quot;&gt;다져진&lt;br&gt;양파&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="460" y="345" width="80" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="qIdZlYRgleu5UFHHDGIx-44" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="309.5" as="sourcePoint" />
-            <mxPoint x="220" y="309.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qIdZlYRgleu5UFHHDGIx-45" value="&lt;font size=&quot;3&quot;&gt;볶아진 채소&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="265" width="120" height="55" as="geometry" />
-        </mxCell>
         <mxCell id="qIdZlYRgleu5UFHHDGIx-49" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="360" as="sourcePoint" />
-            <mxPoint x="270" y="490" as="targetPoint" />
+            <mxPoint x="340" y="300" as="sourcePoint" />
+            <mxPoint x="330" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="120" y="490" />
+              <mxPoint x="330" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qIdZlYRgleu5UFHHDGIx-50" value="&lt;font style=&quot;font-size: 18px&quot;&gt;간된 볶아진 채소&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="460" width="240" height="20" as="geometry" />
+        <mxCell id="qIdZlYRgleu5UFHHDGIx-50" value="&lt;font style=&quot;font-size: 18px&quot;&gt;볶아진 채소&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="362.5" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qIdZlYRgleu5UFHHDGIx-52" value="&lt;font style=&quot;font-size: 18px&quot;&gt;8. 밥 넣고&lt;br&gt;볶기&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qIdZlYRgleu5UFHHDGIx-52" value="&lt;font style=&quot;font-size: 18px&quot;&gt;2-4. 밥 넣고&lt;br&gt;볶기&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="450" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qIdZlYRgleu5UFHHDGIx-55" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
@@ -158,7 +134,7 @@
         <mxCell id="qIdZlYRgleu5UFHHDGIx-58" value="&lt;font style=&quot;font-size: 18px&quot;&gt;채소볶음밥&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="405" y="450" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qIdZlYRgleu5UFHHDGIx-59" value="&lt;font style=&quot;font-size: 18px&quot;&gt;10. 계란&lt;br&gt;부치기&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qIdZlYRgleu5UFHHDGIx-59" value="&lt;font style=&quot;font-size: 18px&quot;&gt;3-1. 계란&lt;br&gt;부치기&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="610" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qIdZlYRgleu5UFHHDGIx-60" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
@@ -166,9 +142,6 @@
             <mxPoint x="260" y="650" as="sourcePoint" />
             <mxPoint x="370" y="650" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="qIdZlYRgleu5UFHHDGIx-61" value="&lt;font style=&quot;font-size: 18px&quot;&gt;가열된&lt;br&gt;식용유&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="270" y="610" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qIdZlYRgleu5UFHHDGIx-62" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -179,78 +152,47 @@
         <mxCell id="qIdZlYRgleu5UFHHDGIx-63" value="&lt;font style=&quot;font-size: 18px&quot;&gt;계란&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="710" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qIdZlYRgleu5UFHHDGIx-68" value="&lt;span style=&quot;font-size: 18px&quot;&gt;11. 접시에 &lt;br&gt;담기&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qIdZlYRgleu5UFHHDGIx-68" value="&lt;span style=&quot;font-size: 18px&quot;&gt;3-2. 접시에 &lt;br&gt;담기&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="605" y="440" width="135" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qIdZlYRgleu5UFHHDGIx-69" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="650" as="sourcePoint" />
-            <mxPoint x="595" y="650" as="targetPoint" />
+            <mxPoint x="500" y="600" as="sourcePoint" />
+            <mxPoint x="610" y="530" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qIdZlYRgleu5UFHHDGIx-70" value="&lt;span style=&quot;font-size: 18px&quot;&gt;계란 부침&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="505" y="620" width="90" height="20" as="geometry" />
+          <mxGeometry x="460" y="540" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qIdZlYRgleu5UFHHDGIx-72" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="835" y="534.75" as="sourcePoint" />
-            <mxPoint x="950" y="610" as="targetPoint" />
+            <mxPoint x="870" y="480" as="sourcePoint" />
+            <mxPoint x="760" y="480" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qIdZlYRgleu5UFHHDGIx-73" value="&lt;font style=&quot;font-size: 18px&quot;&gt;참깨&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="820" y="550" width="190" height="20" as="geometry" />
+          <mxGeometry x="720" y="394" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qIdZlYRgleu5UFHHDGIx-75" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="940" y="490" as="sourcePoint" />
-            <mxPoint x="990" y="590" as="targetPoint" />
+            <mxPoint x="815" y="370" as="sourcePoint" />
+            <mxPoint x="735" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qIdZlYRgleu5UFHHDGIx-76" value="&lt;font style=&quot;font-size: 18px&quot;&gt;케찹&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="900" y="530" width="190" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="qIdZlYRgleu5UFHHDGIx-78" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1000" y="700" as="sourcePoint" />
-            <mxPoint x="760" y="760" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1000" y="760" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="795" y="450" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qIdZlYRgleu5UFHHDGIx-79" value="&lt;font style=&quot;font-size: 18px&quot;&gt;완성된 채소볶음밥&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="710" y="770" width="300" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="qIdZlYRgleu5UFHHDGIx-80" value="채소볶음밥 먹는 사람" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="730" width="165" height="60" as="geometry" />
+          <mxGeometry x="610" y="560" width="300" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qIdZlYRgleu5UFHHDGIx-81" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="530" as="sourcePoint" />
-            <mxPoint x="680" y="600" as="targetPoint" />
+            <mxPoint x="680" y="640" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="qIdZlYRgleu5UFHHDGIx-82" value="&lt;font style=&quot;font-size: 18px&quot;&gt;접시에 담긴 볶음밥&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="500" y="540" width="190" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="qIdZlYRgleu5UFHHDGIx-83" value="&lt;span style=&quot;font-size: 18px&quot;&gt;12. 볶음밥에 &lt;br&gt;계란 부침 덮기&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="610" width="135" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qIdZlYRgleu5UFHHDGIx-84" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="660" as="sourcePoint" />
-            <mxPoint x="920" y="660" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qIdZlYRgleu5UFHHDGIx-85" value="&lt;span style=&quot;font-size: 18px&quot;&gt;계란 부침 덮인&lt;br&gt;채소볶음밥&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="740" y="600" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qIdZlYRgleu5UFHHDGIx-87" value="&lt;font style=&quot;font-size: 18px&quot;&gt;13. 참깨, 케찹&lt;br&gt;뿌리기&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="940" y="610" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="edRf1vD5LT0kCkmPY79u-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -258,34 +200,25 @@
             <mxPoint x="495" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qOc2fzrBNdWUXlwEHEvg-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;9. 팬에&lt;br&gt;가열하기&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="610" width="120" height="80" as="geometry" />
+        <mxCell id="qOc2fzrBNdWUXlwEHEvg-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;식용유&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="620" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qOc2fzrBNdWUXlwEHEvg-2" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10" y="650" as="sourcePoint" />
-            <mxPoint x="120" y="650" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qOc2fzrBNdWUXlwEHEvg-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;식용유&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="15" y="620" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="qOc2fzrBNdWUXlwEHEvg-4" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="qOc2fzrBNdWUXlwEHEvg-4" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="20" y="120" as="sourcePoint" />
             <mxPoint x="120" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qOc2fzrBNdWUXlwEHEvg-5" value="&lt;span style=&quot;font-size: 18px&quot;&gt;감자&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qOc2fzrBNdWUXlwEHEvg-5" value="&lt;span style=&quot;font-size: 18px&quot;&gt;감자&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="65" y="90" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qOc2fzrBNdWUXlwEHEvg-6" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="qOc2fzrBNdWUXlwEHEvg-6" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="50" y="180" as="sourcePoint" />
             <mxPoint x="140" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qOc2fzrBNdWUXlwEHEvg-7" value="&lt;span style=&quot;font-size: 18px&quot;&gt;양파&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qOc2fzrBNdWUXlwEHEvg-7" value="&lt;span style=&quot;font-size: 18px&quot;&gt;양파&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="140" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
