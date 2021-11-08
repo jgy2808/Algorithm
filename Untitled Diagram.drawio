@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T05:50:34.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="j-daxr4TEAg_-dkHTicI" version="15.6.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-08T06:16:53.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="NUGfW3MUaiM21qWA242-" version="15.6.8" type="github" pages="2">
   <diagram id="BkRIvSXjx7AZviJyloqO" name="Page-1">
     <mxGraphModel dx="1278" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -223,7 +223,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RS6mTUd6XTabQn7sq9NR" name="Page-2">
-    <mxGraphModel dx="1504" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="mD9lyy4udpEm4NLpIeO3-0" />
         <mxCell id="mD9lyy4udpEm4NLpIeO3-1" parent="mD9lyy4udpEm4NLpIeO3-0" />
@@ -873,44 +873,32 @@
         <mxCell id="olg4yO0nKoQuXHNecsV7-56" value="회수 요청서" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="mD9lyy4udpEm4NLpIeO3-1">
           <mxGeometry x="1892" y="991" width="115" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="olg4yO0nKoQuXHNecsV7-57" value="비디오 납품업체" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="mD9lyy4udpEm4NLpIeO3-1">
-          <mxGeometry x="1640" y="1310" width="140" height="20" as="geometry" />
+        <mxCell id="olg4yO0nKoQuXHNecsV7-64" value="폐기될 비디오 정보" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="mD9lyy4udpEm4NLpIeO3-1">
+          <mxGeometry x="1686.25" y="1110.5" width="140" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="olg4yO0nKoQuXHNecsV7-58" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="mD9lyy4udpEm4NLpIeO3-1">
+        <mxCell id="olg4yO0nKoQuXHNecsV7-68" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="mD9lyy4udpEm4NLpIeO3-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1866.75" y="1269" as="sourcePoint" />
-            <mxPoint x="1906.75" y="1315" as="targetPoint" />
+            <mxPoint x="1943" y="1149.66" as="sourcePoint" />
+            <mxPoint x="2061.25" y="1149.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="olg4yO0nKoQuXHNecsV7-59" value="신규 비디오" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="mD9lyy4udpEm4NLpIeO3-1">
-          <mxGeometry x="1663.5" y="1254" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="olg4yO0nKoQuXHNecsV7-60" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="mD9lyy4udpEm4NLpIeO3-1">
+        <mxCell id="olg4yO0nKoQuXHNecsV7-70" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="mD9lyy4udpEm4NLpIeO3-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1736" y="1300" as="sourcePoint" />
-            <mxPoint x="1776" y="1250" as="targetPoint" />
+            <mxPoint x="1696.25" y="1141.5" as="sourcePoint" />
+            <mxPoint x="1826.25" y="1141.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="olg4yO0nKoQuXHNecsV7-61" value="신규 비디오 정보" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="mD9lyy4udpEm4NLpIeO3-1">
-          <mxGeometry x="1892.75" y="1265" width="114" height="30" as="geometry" />
+        <mxCell id="olg4yO0nKoQuXHNecsV7-71" value="폐기된 비디오" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="mD9lyy4udpEm4NLpIeO3-1">
+          <mxGeometry x="1941.25" y="1111.5" width="114" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="olg4yO0nKoQuXHNecsV7-62" value="비디오 자료" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=14;align=center;" vertex="1" parent="mD9lyy4udpEm4NLpIeO3-1">
-          <mxGeometry x="1912.25" y="1312.41" width="100" height="30" as="geometry" />
+        <mxCell id="olg4yO0nKoQuXHNecsV7-72" value="비디오 자료" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=14;align=center;" vertex="1" parent="mD9lyy4udpEm4NLpIeO3-1">
+          <mxGeometry x="1581.25" y="1127" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="olg4yO0nKoQuXHNecsV7-63" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="mD9lyy4udpEm4NLpIeO3-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2087.5" y="1266.4999999999998" as="sourcePoint" />
-            <mxPoint x="2188" y="1266.4999999999998" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="olg4yO0nKoQuXHNecsV7-73" value="비디오 폐기" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;sketch=0;fontSize=14;align=center;" vertex="1" parent="mD9lyy4udpEm4NLpIeO3-1">
+          <mxGeometry x="1842.75" y="1101" width="82" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="olg4yO0nKoQuXHNecsV7-64" value="폐기될 비디오" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="mD9lyy4udpEm4NLpIeO3-1">
-          <mxGeometry x="2080" y="1237.5" width="115" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="olg4yO0nKoQuXHNecsV7-65" value="비디오 &lt;br&gt;회수 요청" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;sketch=0;fontSize=14;align=center;" vertex="1" parent="mD9lyy4udpEm4NLpIeO3-1">
-          <mxGeometry x="1818.5" y="1128" width="82" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="olg4yO0nKoQuXHNecsV7-66" value="d-2.&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="mD9lyy4udpEm4NLpIeO3-1">
-          <mxGeometry x="1620" y="1077.41" width="40" height="20" as="geometry" />
+        <mxCell id="olg4yO0nKoQuXHNecsV7-74" value="d-2. 비디오 폐기" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="mD9lyy4udpEm4NLpIeO3-1">
+          <mxGeometry x="1560" y="1087" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
