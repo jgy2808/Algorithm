@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T08:49:45.676Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="dYbBd1McgvS34nv1zUji" version="15.6.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-24T14:11:22.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="P5ax12eSxBwa7-R_2hGB" version="15.7.3" type="github" pages="3">
   <diagram id="BkRIvSXjx7AZviJyloqO" name="Page-1">
     <mxGraphModel dx="1278" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1055,6 +1055,23 @@
         </mxCell>
         <mxCell id="9INgfMCBZfk1aEsbU1zb-28" value="비디오 납품업체" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="mD9lyy4udpEm4NLpIeO3-1">
           <mxGeometry x="1630.69" y="1833.5" width="140" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="OmCvoZHLXuykqzA6o3n3" name="페이지-3">
+    <mxGraphModel dx="1504" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="8B8nuMSLz27_aIyFN7Sz-0" />
+        <mxCell id="8B8nuMSLz27_aIyFN7Sz-1" parent="8B8nuMSLz27_aIyFN7Sz-0" />
+        <mxCell id="8B8nuMSLz27_aIyFN7Sz-2" value="&lt;font size=&quot;3&quot;&gt;제품 주문&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8B8nuMSLz27_aIyFN7Sz-1">
+          <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8B8nuMSLz27_aIyFN7Sz-3" value="제품 인도" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8B8nuMSLz27_aIyFN7Sz-1">
+          <mxGeometry x="520" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8B8nuMSLz27_aIyFN7Sz-4" value="구매대금 결제" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8B8nuMSLz27_aIyFN7Sz-1">
+          <mxGeometry x="840" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
