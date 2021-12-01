@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-01T20:06:13.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="tA-hQBIrU4ZojASvvQYo" version="15.8.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-12-01T20:23:02.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="pSHuwJxlB7TRDhvyPaEg" version="15.8.6" type="github" pages="5">
   <diagram id="pltrivqVQTNYaEq_dVXa" name="step1">
     <mxGraphModel dx="1250" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -223,7 +223,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3GYu74Jf3o1cyUTnSK34" name="step3">
-    <mxGraphModel dx="1250" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="722" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="mSrGLhDNC7W5BUym-OGK-0" />
         <mxCell id="mSrGLhDNC7W5BUym-OGK-1" parent="mSrGLhDNC7W5BUym-OGK-0" />
@@ -381,7 +381,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4XJri9uEjGDBmSHPAtPU" name="step4">
-    <mxGraphModel dx="1786" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2129" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="W0WLjw0uMM_wI8urXqWr-0" />
         <mxCell id="W0WLjw0uMM_wI8urXqWr-1" parent="W0WLjw0uMM_wI8urXqWr-0" />
@@ -539,7 +539,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Kc7Nqa-bYA83gd7Cn4Jb" name="step5">
-    <mxGraphModel dx="1786" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1028" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="OoFmj1wkJ-wPQwVW6wY0-0" />
         <mxCell id="OoFmj1wkJ-wPQwVW6wY0-1" parent="OoFmj1wkJ-wPQwVW6wY0-0" />
@@ -574,7 +574,7 @@
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OoFmj1wkJ-wPQwVW6wY0-52" value="계약" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=16;" vertex="1" parent="OoFmj1wkJ-wPQwVW6wY0-1">
-          <mxGeometry x="570" y="130" width="140" height="150" as="geometry" />
+          <mxGeometry x="510" y="130" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="OoFmj1wkJ-wPQwVW6wY0-53" value="계약서 코드" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=16;" vertex="1" parent="OoFmj1wkJ-wPQwVW6wY0-52">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -637,7 +637,7 @@
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OoFmj1wkJ-wPQwVW6wY0-68" value="공급사" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=16;" vertex="1" parent="OoFmj1wkJ-wPQwVW6wY0-1">
-          <mxGeometry x="450" y="410" width="140" height="90" as="geometry" />
+          <mxGeometry x="420" y="400" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="OoFmj1wkJ-wPQwVW6wY0-69" value="공급사 코드" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=16;" vertex="1" parent="OoFmj1wkJ-wPQwVW6wY0-68">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
